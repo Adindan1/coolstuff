@@ -1,1 +1,1 @@
-Place I can do fun stuff with my new vm on my SER6
+# This where I can create cool stuff
